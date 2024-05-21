@@ -1,3 +1,5 @@
+// rfce
+
 // import React from 'react'
 
 // function ES7Snippents() {
@@ -8,6 +10,10 @@
 
 // export default ES7Snippents
 
+
+
+// rafce - function compononent as arrow function
+
 // import React from 'react'
 
 // const RAFCESnippet = () => {
@@ -17,6 +23,10 @@
 // }
 
 // export default RAFCESnippet
+
+
+
+// rce - creates and exports a class component
 
 // import React, { Component } from 'react'
 
@@ -36,3 +46,21 @@
 // }
 
 // export default ES7Snippents
+
+
+
+// rconst - creates contructor
+
+// constructor(props) {
+//   super(props)
+
+//   this.state = {
+//      first
+//   }
+// }
+
+
+
+// clg
+
+// clo
